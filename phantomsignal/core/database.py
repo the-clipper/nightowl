@@ -1,7 +1,7 @@
 """
 PhantomSignal Database — Persistent Signal Storage
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

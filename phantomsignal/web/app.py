@@ -2,7 +2,7 @@
 PhantomSignal Web Interface — The Shadow Grid Control Panel
 Flask + SocketIO powered cyberpunk OSINT dashboard.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

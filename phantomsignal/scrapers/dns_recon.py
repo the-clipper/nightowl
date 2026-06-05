@@ -2,7 +2,7 @@
 PhantomSignal DNS Recon — Mapping the Shadow Network
 Full DNS enumeration: records, zone transfer, subdomain brute-force.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

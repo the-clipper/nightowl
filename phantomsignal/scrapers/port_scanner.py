@@ -2,7 +2,7 @@
 PhantomSignal Port Scanner — Ghost Probe Network Recon
 Probe chain: nmap (version + OS detection) → pure-Python async TCP fallback.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

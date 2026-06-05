@@ -3,7 +3,7 @@ PhantomSignal Intel API Base — Ghost Key Plugin Architecture
 All intelligence API integrations extend this base class.
 Add a new API by subclassing BaseIntelAPI and registering it.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

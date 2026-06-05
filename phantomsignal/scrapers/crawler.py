@@ -2,7 +2,7 @@
 PhantomSignal Web Crawler — Shadow Spider Network
 Scrapy-powered async web reconnaissance engine.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

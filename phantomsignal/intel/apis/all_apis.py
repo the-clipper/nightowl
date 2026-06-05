@@ -2,7 +2,7 @@
 PhantomSignal Intelligence API Registry
 All API integrations — the full ghost key arsenal.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

@@ -2,7 +2,7 @@
 PhantomSignal Shadow Profiler — People Intelligence Aggregator
 Synthesizes data from multiple sources into a unified shadow profile.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

@@ -2,7 +2,7 @@
 PhantomSignal Core Engine — The Phantom Orchestrator
 Coordinates all recon modules and feeds signal to the grid.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

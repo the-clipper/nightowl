@@ -2,7 +2,7 @@
 PhantomSignal API Hunter — Expose the Hidden Endpoints
 Discovers REST APIs, GraphQL, Swagger docs, admin panels, and more.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

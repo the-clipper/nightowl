@@ -1,7 +1,7 @@
 """
 PhantomSignal Configuration Manager — Ghost Keys & Grid Settings
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

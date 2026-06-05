@@ -2,7 +2,7 @@
 PhantomSignal CLI — Ghost Terminal Interface
 Operative command-line control for the shadow grid.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

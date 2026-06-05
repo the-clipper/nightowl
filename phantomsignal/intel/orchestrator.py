@@ -2,7 +2,7 @@
 PhantomSignal Intel Orchestrator — The Shadow Broker
 Coordinates all intelligence APIs and aggregates signal data.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

@@ -17,9 +17,9 @@ r"""
 
 __version__ = "1.3.0"
 __codename__ = "PHANTOM SIGNAL"
-__author__ = "packetsn1ffer"
+__author__ = "the-clipper"
 __credits__ = [
-    "packetsn1ffer — concept, design, threat modeling, module specification",
+    "the-clipper — concept, design, threat modeling, module specification",
     "Claude (Anthropic) — AI architecture, implementation, full-stack development",
 ]
 __license__ = "MIT"
@@ -40,7 +40,7 @@ BANNER = r"""
 
       ░░░░  PHANTOM SIGNAL  //  v{version}  //  OSINT FRAMEWORK  ░░░░
       ░  "See everything. Leave no trace."                        ░
-      ░  by packetsn1ffer  //  AI arch: Claude (Anthropic)        ░
+      ░  by the-clipper  //  AI arch: Claude (Anthropic)        ░
       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 """.format(version=__version__)
 

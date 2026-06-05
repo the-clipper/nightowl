@@ -16,7 +16,7 @@ setup(
     description="PhantomSignal :: Open-Source OSINT Intelligence Framework",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="packetsn1ffer",
+    author="the-clipper",
     url="https://github.com/getphantomsignal/phantomsignal",
     packages=find_packages(),
     include_package_data=True,

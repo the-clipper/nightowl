@@ -1,7 +1,7 @@
 """
 PhantomSignal :: Shodan Integration — Internet-Wide Device Scanner
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

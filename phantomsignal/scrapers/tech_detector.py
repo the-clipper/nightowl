@@ -2,7 +2,7 @@
 PhantomSignal Tech Detector — X-Ray Vision for the Web Stack
 Identifies technologies, frameworks, CMS, CDN, WAF, and more.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """

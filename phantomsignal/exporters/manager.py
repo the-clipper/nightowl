@@ -2,7 +2,7 @@
 PhantomSignal Export Manager — Intelligence Packet Compiler
 Handles all export formats with optional compression and encryption.
 
-Author:  packetsn1ffer
+Author:  the-clipper
 AI:      Claude (Anthropic)
 License: MIT — see LICENSE
 """
